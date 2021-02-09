@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.submitBtn:hover {
+  background: #303336 !important;
+}
+input {
+  outline: none;
+}
+i {
+  pointer-events: none;
+}
