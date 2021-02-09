@@ -1,0 +1,11 @@
+//! Constructor method state
+
+//! filling input
+
+//! first way to create state
+
+//! old way
+
+//! old way (with old type of function)
+
+//! second way create a state
